@@ -6,5 +6,6 @@ public class test01 {
 		System.out.println("AAAA");
 		int i=0;
 		System.out.println(i);  
+                String a="GitHub update";
 	}
 }
